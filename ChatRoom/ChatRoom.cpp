@@ -2,21 +2,27 @@
 #include <string>
 using namespace std;
 
-int main(void)
+int main()
 {
-    string s, t;
+    int count=0, j = 0;
+    string s, word = "hello";
     cin >> s;
-    if (s.length() >= 1 && s.length() <= 100)
+    for (int i = 0; i < s.length(); i++)
     {
-        for (int i = 0; i < s.length(); i++)
+        if (s[i] == word[j])
         {
-            if (s[i] == 'h' || s[i] == 'e' || s[i] == 'l' || s[i] == 'o')
-                t += s[i];
+            j++;
+            count++;
+            
+            
+            if (count == 5)
+            {
+                break;
+            }
         }
-
-        if (t == "helo")
-            cout << "YES";
-        else
-            cout << "NO";
     }
+    if (count == 5)
+        cout << "YES";
+    else
+        cout << "NO";
 }
