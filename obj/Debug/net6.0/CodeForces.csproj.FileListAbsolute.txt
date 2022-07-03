@@ -1,0 +1,15 @@
+C:\Users\Ammar\Development\CodeForces\bin\Debug\net6.0\CodeForces.exe
+C:\Users\Ammar\Development\CodeForces\bin\Debug\net6.0\CodeForces.deps.json
+C:\Users\Ammar\Development\CodeForces\bin\Debug\net6.0\CodeForces.runtimeconfig.json
+C:\Users\Ammar\Development\CodeForces\bin\Debug\net6.0\CodeForces.dll
+C:\Users\Ammar\Development\CodeForces\bin\Debug\net6.0\CodeForces.pdb
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.csproj.AssemblyReference.cache
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.AssemblyInfoInputs.cache
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.AssemblyInfo.cs
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.csproj.CoreCompileInputs.cache
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.dll
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\refint\CodeForces.dll
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.pdb
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\CodeForces.genruntimeconfig.cache
+C:\Users\Ammar\Development\CodeForces\obj\Debug\net6.0\ref\CodeForces.dll
