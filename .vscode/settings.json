@@ -4,6 +4,8 @@
         "string": "cpp",
         "xstring": "cpp",
         "ostream": "cpp",
-        "algorithm": "cpp"
-    }
+        "algorithm": "cpp",
+        "new": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
 }
